@@ -15,6 +15,7 @@ mod alias;
 mod alias_resolver;
 mod assignment_evaluator;
 mod assignment_resolver;
+mod ast;
 mod color;
 mod command_ext;
 mod common;
